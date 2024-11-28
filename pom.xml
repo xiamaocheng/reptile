@@ -18,7 +18,7 @@
         <spring.version>4.3.5.RELEASE</spring.version>
         <!-- mybatis版本号 -->
         <mybatis.version>3.4.1</mybatis.version>
-        <dubbo.version>2.5.3</dubbo.version>
+        <dubbo.version>2.6.12</dubbo.version>
     </properties>
 
     <dependencies>

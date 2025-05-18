@@ -76,9 +76,6 @@ reptile 是一款基于Java的智能招聘信息聚合工具，支持从360搜�
  
 如果你喜欢这个项目，可以通过以下方式支持我：
  
-- [GitHub Sponsors](https://github.com/sponsors/your-username)
-- [Patreon](https://www.patreon.com/your-username)
-- [支付宝](https://example.com/alipay)
 - [微信支付](https://github.com/user-attachments/assets/3e3f3a76-4783-4797-aab9-16f1fd70e08b)
 
 
